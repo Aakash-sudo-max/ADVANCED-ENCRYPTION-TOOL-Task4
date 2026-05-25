@@ -98,19 +98,35 @@ This tool is for personal and educational use.
 
 Do not use weak passwords — prefer long, complex ones.
 
+
+##OUT-PUTS
+
+
 OUTPUT1- WHEN PROGRAM RUN AND IT"S FIRST INITIAL STEP 1:
+
+
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/4205a348-f867-4865-a174-b7a4fded3f37" />
 
 
-OUTPUT2- WHEN THE PROGRAM IS ENCRYPTED IT APPEARS WITH .enc EXTENSION:
+OUTPUT2- WHEN THE PROGRAM IS ENCRYPTED IT APPEARS WITH ".enc" EXTENSION:
+
+
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1759e27f-5196-4f58-a823-f5e2269ccec7" />
 
+
+
 OUTPUT3- WHEN THE PROGRAM IS DECRYPTED IT APPEARS WITH "_decrypted" EXTENSION:
+
+
+
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/bd0a137c-7e6b-4ffe-8215-f3c352cfcc7e" />
 
+
+
 AND IT WHEN DECRYPTED:
+
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d3d75d68-aa96-4699-bf37-a144cdf5b255" />
  
