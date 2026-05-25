@@ -107,7 +107,7 @@ OUTPUT2- WHEN THE PROGRAM IS ENCRYPTED IT APPEARS WITH .enc EXTENSION:
 
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/1759e27f-5196-4f58-a823-f5e2269ccec7" />
 
-OUTPUT2- WHEN THE PROGRAM IS DECRYPTED IT APPEARS WITH "decrypted" EXTENSION:
+OUTPUT3- WHEN THE PROGRAM IS DECRYPTED IT APPEARS WITH "decrypted" EXTENSION:
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/bd0a137c-7e6b-4ffe-8215-f3c352cfcc7e" />
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/58109938-1dde-4b3b-a383-7e064d019326" />
+ 
